@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+
+\bibitem{Lewis}
+Lewis Colleen.
+\newblock How programming environment shapes perception, learning and goals:
+  Logo vs. scratch.
+\newblock
+  \url{http://ims.mii.lt/ims/konferenciju_medziaga/SIGCSE'10/docs/p346.pdf},
+  2015.
+\newblock Accessed: 2017-08-13.
+
+\bibitem{Weintrop}
+Weintrop David.
+\newblock Comparing block-based, text-based, and hybrid blocks/text programming
+  environments in introductory computer science classes.
+\newblock \url{http://dweintrop.github.io/papers/Weintrop-diss-4pager.pdf}.
+\newblock Accessed: 2017-08-13.
+
+\bibitem{Weintrop3}
+Weintrop~David e~Wilensky~U.
+\newblock To block or not to block, that is the question: Students’
+  perceptions of blocks-based programming.
+\newblock
+  \url{http://dweintrop.github.io/papers/Weintrop_Wilensky_ICER_2015.pdf},
+  2015.
+\newblock Accessed: 2017-08-13.
+
+\bibitem{Weintrop2}
+Weintrop~David e~Wilensky~U.
+\newblock Using commutative assessments to compare conceptual understanding in
+  blocks based and text based programs.
+\newblock
+  \url{http://dweintrop.github.io/papers/Weintrop_Wilensky_ICER_2015.pdf},
+  2015.
+\newblock Accessed: 2017-08-13.
+
+\bibitem{LibreLogo2}
+László Németh.
+\newblock Esempi di uso librelogo (ungherese).
+\newblock \url{http://www.numbertext.org/logo/logofuzet.pdf}.
+\newblock Accessed: 2017-08-13.
+
+\bibitem{Papert}
+Seymour Papert.
+\newblock {\em Mindstorms, Children, Computers, and Powerful Ideas}.
+\newblock Basic books, New York, 2 edition, 1993.
+
+\bibitem{LibreLogo3}
+Lakó Viktória.
+\newblock Manuale di comandi di librelogo.
+\newblock
+  \url{http://szabadszoftver.kormany.hu/wp-content/uploads/librelogo_oktatasi_segedanyag_v4.pdf}.
+\newblock Accessed: 2017-08-13.
+
+\end{thebibliography}
