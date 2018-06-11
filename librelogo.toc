@@ -6,3 +6,7 @@
 \contentsline {section}{\numberline {1.4}Preface}{13}
 \contentsline {chapter}{\numberline {2}LibreLogo}{15}
 \contentsline {section}{\numberline {2.1}How to manage graphics in Writer}{21}
+\contentsline {chapter}{\numberline {3}La genesi}{23}
+\contentsline {section}{\numberline {3.1}La paura della matematica}{23}
+\contentsline {section}{\numberline {3.2}\textit {\textit {Mathophobia}: The Fear for Learning}}{24}
+\contentsline {chapter}{\numberline {4}Il LOGO}{31}

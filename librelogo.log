@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.18)  18 MAY 2018 19:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.18)  11 JUN 2018 20:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -559,7 +559,7 @@ Package: gensymb 2003/07/02 v1.0 (WaS)
 
 LaTeX Warning: Label `parte:manuale' multiply defined.
 
-))
+) (./3-paura.aux) (./3-logo.aux))
 \openout1 = `librelogo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -574,7 +574,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
 \scratchdimen=\dimen128
@@ -873,7 +874,49 @@ Package pdftex.def Info: ./images/librelogo/AncoraLO.png  used on input line 11
 ) [22 <./images/librelogo/DrawToolbar.png> <./images/librelogo/Pointer_LO.png> 
 <./images/librelogo/DrawToolbar2.png> <./images/librelogo/RaggruppamentoLO.png>
  <./images/librelogo/AncoraLO.png>]
-(./librelogo.bbl
+\openout2 = `3-paura.aux'.
+
+
+(./3-paura.tex
+Chapter 3.
+[23
+
+
+
+]
+Overfull \hbox (2.92651pt too wide) in paragraph at lines 9--10
+[]\OT1/cmr/m/n/10 Logo failed we said. It failed in Pa-pert's ini-tial in-ten-t
+ions. It is not widespread
+ []
+
+[24] [25] [26]
+Overfull \hbox (13.60515pt too wide) in paragraph at lines 53--60
+[]\OT1/cmr/m/n/10 INSANE RE-TARD MAKES BE-CAUSE SWEET SNOOPY SCREAMS 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--60
+
+ []
+
+[27] [28]) [29]
+\openout2 = `3-logo.aux'.
+
+ (./3-logo.tex [30
+
+
+
+]
+Chapter 4.
+[31]
+
+LaTeX Warning: Reference `parte:esperienze-didattiche' on page 32 undefined on 
+input line 52.
+
+
+LaTeX Warning: Reference `cap:cerchio' on page 32 undefined on input line 52.
+
+) [32] (./librelogo.bbl
 Underfull \hbox (badness 1303) in paragraph at lines 29--36
 []\OT1/cmr/m/n/10 Weintrop David e Wilen-sky U.  Us-ing com-mu-ta-tive as-sess-
 ments to
@@ -891,11 +934,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--54
  segedanyag _
  []
 
-) [23
+) [33
 
 
 ] (./librelogo.aux (./0-frontespizio.aux) (./01-ringraziamenti.aux)
-(./1-prefazione.aux) (./2-librelogo.aux))
+(./1-prefazione.aux) (./2-librelogo.aux) (./3-paura.aux) (./3-logo.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -904,30 +947,31 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5676 strings out of 492982
- 80606 string characters out of 6134896
- 161940 words of memory out of 5000000
- 9092 multiletter control sequences out of 15000+600000
- 10625 words of font info for 38 fonts, out of 8000000 for 9000
+ 5703 strings out of 492982
+ 80995 string characters out of 6134896
+ 161754 words of memory out of 5000000
+ 9104 multiletter control sequences out of 15000+600000
+ 10984 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,32p,3362b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,32p,3379b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on librelogo.pdf (23 pages, 2414125 bytes).
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on librelogo.pdf (33 pages, 2462432 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 95 compressed objects within 1 object stream
+ 204 PDF objects out of 1000 (max. 8388607)
+ 120 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
