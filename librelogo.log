@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.18)  11 JUN 2018 20:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.18)  12 JUN 2018 08:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -884,18 +884,18 @@ Chapter 3.
 
 
 ]
-Overfull \hbox (2.92651pt too wide) in paragraph at lines 9--10
+Overfull \hbox (2.92651pt too wide) in paragraph at lines 7--8
 []\OT1/cmr/m/n/10 Logo failed we said. It failed in Pa-pert's ini-tial in-ten-t
 ions. It is not widespread
  []
 
 [24] [25] [26]
-Overfull \hbox (13.60515pt too wide) in paragraph at lines 53--60
+Overfull \hbox (13.60515pt too wide) in paragraph at lines 51--58
 []\OT1/cmr/m/n/10 INSANE RE-TARD MAKES BE-CAUSE SWEET SNOOPY SCREAMS 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--60
+Underfull \hbox (badness 10000) in paragraph at lines 51--58
 
  []
 
@@ -911,10 +911,10 @@ Chapter 4.
 [31]
 
 LaTeX Warning: Reference `parte:esperienze-didattiche' on page 32 undefined on 
-input line 52.
+input line 58.
 
 
-LaTeX Warning: Reference `cap:cerchio' on page 32 undefined on input line 52.
+LaTeX Warning: Reference `cap:cerchio' on page 32 undefined on input line 58.
 
 ) [32] (./librelogo.bbl
 Underfull \hbox (badness 1303) in paragraph at lines 29--36
@@ -968,7 +968,7 @@ amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on librelogo.pdf (33 pages, 2462432 bytes).
+Output written on librelogo.pdf (33 pages, 2462342 bytes).
 PDF statistics:
  204 PDF objects out of 1000 (max. 8388607)
  120 compressed objects within 2 object streams
