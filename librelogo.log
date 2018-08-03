@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.18)  12 JUN 2018 08:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.18)  3 AUG 2018 22:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -559,7 +559,20 @@ Package: gensymb 2003/07/02 v1.0 (WaS)
 
 LaTeX Warning: Label `parte:manuale' multiply defined.
 
-) (./3-paura.aux) (./3-logo.aux))
+) (./3-paura.aux) (./3-logo.aux) (./4-disegnare.aux) (./7-caos-della-vita.aux
+
+LaTeX Warning: Label `dec-2' multiply defined.
+
+
+LaTeX Warning: Label `dec-2' multiply defined.
+
+
+LaTeX Warning: Label `dec-2' multiply defined.
+
+
+LaTeX Warning: Label `dec-2' multiply defined.
+
+) (./xi-appendice.aux))
 \openout1 = `librelogo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -916,29 +929,817 @@ input line 58.
 
 LaTeX Warning: Reference `cap:cerchio' on page 32 undefined on input line 58.
 
-) [32] (./librelogo.bbl
-Underfull \hbox (badness 1303) in paragraph at lines 29--36
+) [32]
+\openout2 = `4-disegnare.aux'.
+
+ (./4-disegnare.tex
+Chapter 5.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 12--18
+[]$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--18
+
+ []
+
+<./images/disegnare/disegnare-1.png, id=151, 136.51pt x 141.52875pt>
+File: ./images/disegnare/disegnare-1.png Graphic file (type png)
+<use ./images/disegnare/disegnare-1.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-1.png  used on input line
+ 25.
+(pdftex.def)             Requested size: 85.35826pt x 91.55606pt.
+<./images/disegnare/disegnare-2.png, id=153, 147.55125pt x 148.555pt>
+File: ./images/disegnare/disegnare-2.png Graphic file (type png)
+<use ./images/disegnare/disegnare-2.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-2.png  used on input line
+ 41.
+(pdftex.def)             Requested size: 85.35826pt x 88.52261pt.
+
+Overfull \hbox (1.8045pt too wide) in paragraph at lines 32--45
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--45
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33
+
+
+
+ <./images/disegnare/disegnare-1.png>]
+<./images/disegnare/disegnare-3.png, id=160, 152.57pt x 152.57pt>
+File: ./images/disegnare/disegnare-3.png Graphic file (type png)
+<use ./images/disegnare/disegnare-3.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-3.png  used on input line
+ 71.
+(pdftex.def)             Requested size: 85.35826pt x 87.79652pt.
+
+Overfull \hbox (1.8045pt too wide) in paragraph at lines 54--75
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--75
+
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 94--100
+[]$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--100
+
+ []
+
+[34 <./images/disegnare/disegnare-2.png> <./images/disegnare/disegnare-3.png>]
+<./images/disegnare/disegnare-4.png, id=168, 266.9975pt x 284.06125pt>
+File: ./images/disegnare/disegnare-4.png Graphic file (type png)
+<use ./images/disegnare/disegnare-4.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-4.png  used on input line
+ 128.
+(pdftex.def)             Requested size: 142.26378pt x 154.03308pt.
+
+Overfull \hbox (1.8045pt too wide) in paragraph at lines 111--132
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--132
+
+ []
+
+<./images/disegnare/disegnare-5.png, id=170, 238.8925pt x 230.8625pt>
+File: ./images/disegnare/disegnare-5.png Graphic file (type png)
+<use ./images/disegnare/disegnare-5.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-5.png  used on input line
+ 156.
+(pdftex.def)             Requested size: 142.26378pt x 139.74597pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 156--158
+[][]
+ []
+
+
+Overfull \vbox (1.21616pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 35
+ []
+
+[35 <./images/disegnare/disegnare-4.png> <./images/disegnare/disegnare-5.png>]
+<./images/disegnare/disegnare-6.png, id=177, 214.8025pt x 250.9375pt>
+File: ./images/disegnare/disegnare-6.png Graphic file (type png)
+<use ./images/disegnare/disegnare-6.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-6.png  used on input line
+ 175.
+(pdftex.def)             Requested size: 184.9429pt x 221.57246pt.
+
+Overfull \hbox (12.4429pt too wide) in paragraph at lines 175--177
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--179
+
+ []
+
+<./images/disegnare/disegnare-7.png, id=179, 246.9225pt x 375.4025pt>
+File: ./images/disegnare/disegnare-7.png Graphic file (type png)
+<use ./images/disegnare/disegnare-7.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-7.png  used on input line
+ 199.
+(pdftex.def)             Requested size: 142.26378pt x 222.51608pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 199--201
+[][]
+ []
+
+[36 <./images/disegnare/disegnare-6.png> <./images/disegnare/disegnare-7.png>]
+Underfull \hbox (badness 2726) in paragraph at lines 227--228
+\OT1/cmr/m/n/7 was made with-out leav-ing a
+ []
+
+<./images/disegnare/disegnare-8.png, id=186, 240.9pt x 361.35pt>
+File: ./images/disegnare/disegnare-8.png Graphic file (type png)
+<use ./images/disegnare/disegnare-8.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-8.png  used on input line
+ 234.
+(pdftex.def)             Requested size: 142.26378pt x 219.64377pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 234--236
+[][]
+ []
+
+<./images/disegnare/disegnare-9.png, id=188, 237.88875pt x 358.33875pt>
+File: ./images/disegnare/disegnare-9.png Graphic file (type png)
+<use ./images/disegnare/disegnare-9.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-9.png  used on input line
+ 266.
+(pdftex.def)             Requested size: 142.26378pt x 220.67963pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 266--268
+[][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 37
+ []
+
+[37 <./images/disegnare/disegnare-8.png> <./images/disegnare/disegnare-9.png>]
+<./images/disegnare/disegnare-10.png, id=196, 237.88875pt x 364.36125pt>
+File: ./images/disegnare/disegnare-10.png Graphic file (type png)
+<use ./images/disegnare/disegnare-10.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-10.png  used on input lin
+e 308.
+(pdftex.def)             Requested size: 142.26378pt x 224.47354pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 308--310
+[][]
+ []
+
+<./images/disegnare/disegnare-11.png, id=198, 243.91125pt x 359.3425pt>
+File: ./images/disegnare/disegnare-11.png Graphic file (type png)
+<use ./images/disegnare/disegnare-11.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-11.png  used on input lin
+e 349.
+(pdftex.def)             Requested size: 142.26378pt x 215.55467pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 349--351
+[][]
+ []
+
+[38 <./images/disegnare/disegnare-10.png> <./images/disegnare/disegnare-11.png>
+]
+<./images/disegnare/disegnare-12.png, id=205, 184.69pt x 165.61874pt>
+File: ./images/disegnare/disegnare-12.png Graphic file (type png)
+<use ./images/disegnare/disegnare-12.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-12.png  used on input lin
+e 377.
+(pdftex.def)             Requested size: 142.26378pt x 129.8584pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 377--379
+[][]
+ []
+
+<./images/disegnare/disegnare-13.png, id=207, 180.675pt x 164.615pt>
+File: ./images/disegnare/disegnare-13.png Graphic file (type png)
+<use ./images/disegnare/disegnare-13.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-13.png  used on input lin
+e 399.
+(pdftex.def)             Requested size: 142.26378pt x 132.10391pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 399--401
+[][]
+ []
+
+<./images/disegnare/disegnare-14.png, id=209, 154.5775pt x 152.57pt>
+File: ./images/disegnare/disegnare-14.png Graphic file (type png)
+<use ./images/disegnare/disegnare-14.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-14.png  used on input lin
+e 422.
+(pdftex.def)             Requested size: 142.26378pt x 144.26834pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 422--424
+[][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 39
+ []
+
+[39 <./images/disegnare/disegnare-12.png> <./images/disegnare/disegnare-13.png>
+]
+<./images/disegnare/disegnare-15.png, id=216, 173.64874pt x 152.57pt>
+File: ./images/disegnare/disegnare-15.png Graphic file (type png)
+<use ./images/disegnare/disegnare-15.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-15.png  used on input lin
+e 448.
+(pdftex.def)             Requested size: 142.26378pt x 127.2485pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 448--450
+[][]
+ []
+
+<./images/disegnare/disegnare-16.png, id=218, 401.5pt x 724.7075pt>
+File: ./images/disegnare/disegnare-16.png Graphic file (type png)
+<use ./images/disegnare/disegnare-16.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-16.png  used on input lin
+e 467.
+(pdftex.def)             Requested size: 227.62204pt x 418.86642pt.
+[40 <./images/disegnare/disegnare-14.png> <./images/disegnare/disegnare-15.png>
+]
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 41
+ []
+
+[41 <./images/disegnare/disegnare-16.png>]
+<./images/disegnare/disegnare-17.png, id=230, 161.60374pt x 152.57pt>
+File: ./images/disegnare/disegnare-17.png Graphic file (type png)
+<use ./images/disegnare/disegnare-17.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-17.png  used on input lin
+e 498.
+(pdftex.def)             Requested size: 142.26378pt x 137.49966pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 498--500
+[][]
+ []
+
+<./images/disegnare/disegnare-18.png, id=232, 198.7425pt x 197.73875pt>
+File: ./images/disegnare/disegnare-18.png Graphic file (type png)
+<use ./images/disegnare/disegnare-18.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-18.png  used on input lin
+e 527.
+(pdftex.def)             Requested size: 142.26378pt x 144.56512pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 527--529
+[][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42 <./images/disegnare/disegnare-17.png> <./images/disegnare/disegnare-18.png
+>]
+Underfull \hbox (badness 2547) in paragraph at lines 548--549
+[]\OT1/cmr/m/n/7 FILLCOLOR [255, 255, 255,
+ []
+
+<./images/disegnare/disegnare-19.png, id=241, 195.73125pt x 201.75375pt>
+File: ./images/disegnare/disegnare-19.png Graphic file (type png)
+<use ./images/disegnare/disegnare-19.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-19.png  used on input lin
+e 555.
+(pdftex.def)             Requested size: 142.26378pt x 150.0486pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 555--557
+[][]
+ []
+
+<./images/disegnare/disegnare-20.png, id=243, 105.39375pt x 103.38625pt>
+File: ./images/disegnare/disegnare-20.png Graphic file (type png)
+<use ./images/disegnare/disegnare-20.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-20.png  used on input lin
+e 586.
+(pdftex.def)             Requested size: 85.35826pt x 87.1977pt.
+
+Underfull \vbox (badness 5622) has occurred while \output is active []
+
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 43
+ []
+
+[43 <./images/disegnare/disegnare-19.png>]
+<./images/disegnare/disegnare-21.png, id=250, 170.6375pt x 129.48375pt>
+File: ./images/disegnare/disegnare-21.png Graphic file (type png)
+<use ./images/disegnare/disegnare-21.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-21.png  used on input lin
+e 605.
+(pdftex.def)             Requested size: 142.26378pt x 108.95706pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 605--607
+[][]
+ []
+
+[44 <./images/disegnare/disegnare-20.png> <./images/disegnare/disegnare-21.png>
+]
+Underfull \hbox (badness 1137) in paragraph at lines 626--627
+[]\OT1/cmr/m/n/7 PENUP FOR-WARD 25 PEN-
+ []
+
+<./images/disegnare/disegnare-22.png, id=258, 229.85875pt x 110.4125pt>
+File: ./images/disegnare/disegnare-22.png Graphic file (type png)
+<use ./images/disegnare/disegnare-22.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-22.png  used on input lin
+e 653.
+(pdftex.def)             Requested size: 113.81102pt x 53.49539pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 45
+ []
+
+[45 <./images/disegnare/disegnare-22.png>]
+Overfull \hbox (15.0pt too wide) in paragraph at lines 665--681
+[]$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 665--681
+
+ []
+
+[46]
+<./images/disegnare/disegnare-23.png, id=268, 264.99pt x 186.6975pt>
+File: ./images/disegnare/disegnare-23.png Graphic file (type png)
+<use ./images/disegnare/disegnare-23.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-23.png  used on input lin
+e 708.
+(pdftex.def)             Requested size: 227.62204pt x 160.78288pt.
+<./images/disegnare/disegnare-24.png, id=270, 191.71625pt x 162.6075pt>
+File: ./images/disegnare/disegnare-24.png Graphic file (type png)
+<use ./images/disegnare/disegnare-24.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-24.png  used on input lin
+e 751.
+(pdftex.def)             Requested size: 113.81102pt x 97.91737pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 47
+ []
+
+[47 <./images/disegnare/disegnare-23.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48 <./images/disegnare/disegnare-24.png>]
+Underfull \hbox (badness 1137) in paragraph at lines 766--767
+[]\OT1/cmr/m/n/7 PENUP FOR-WARD 10 PEN-
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 768--769
+[]\OT1/cmr/m/n/7 PENUP FOR-WARD 10 PEN-
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 770--771
+[]\OT1/cmr/m/n/7 PENUP FOR-WARD 10 PEN-
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 772--773
+[]\OT1/cmr/m/n/7 PENUP FOR-WARD 10 PEN-
+ []
+
+<./images/disegnare/disegnare-25.png, id=280, 106.3975pt x 94.3525pt>
+File: ./images/disegnare/disegnare-25.png Graphic file (type png)
+<use ./images/disegnare/disegnare-25.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-25.png  used on input lin
+e 792.
+(pdftex.def)             Requested size: 85.35826pt x 78.09386pt.
+<./images/disegnare/disegnare-26.png, id=282, 285.065pt x 219.82124pt>
+File: ./images/disegnare/disegnare-26.png Graphic file (type png)
+<use ./images/disegnare/disegnare-26.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-26.png  used on input lin
+e 828.
+(pdftex.def)             Requested size: 142.26378pt x 110.35828pt.
+
+Overfull \hbox (4.26588pt too wide) in paragraph at lines 828--830
+[][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 49
+ []
+
+[49 <./images/disegnare/disegnare-25.png> <./images/disegnare/disegnare-26.png>
+]
+<./images/disegnare/disegnare-27.png, id=290, 581.17125pt x 350.30875pt>
+File: ./images/disegnare/disegnare-27.png Graphic file (type png)
+<use ./images/disegnare/disegnare-27.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-27.png  used on input lin
+e 842.
+(pdftex.def)             Requested size: 284.52756pt x 168.29189pt.
+ [50 <./images/disegnare/disegnare-27.png>]
+<./images/disegnare/disegnare-28.png, id=296, 329.23pt x 105.39375pt>
+File: ./images/disegnare/disegnare-28.png Graphic file (type png)
+<use ./images/disegnare/disegnare-28.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-28.png  used on input lin
+e 883.
+(pdftex.def)             Requested size: 85.35826pt x 26.2009pt.
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 51
+ []
+
+[51 <./images/disegnare/disegnare-28.png>]
+Overfull \hbox (15.0pt too wide) in paragraph at lines 939--945
+[]$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--945
+
+ []
+
+File: ./images/disegnare/disegnare-28.png Graphic file (type png)
+<use ./images/disegnare/disegnare-28.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-28.png  used on input lin
+e 954.
+(pdftex.def)             Requested size: 284.52756pt x 81.16565pt.
+[52]
+Overfull \hbox (15.0pt too wide) in paragraph at lines 966--972
+[]$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 966--972
+
+ []
+
+<./images/disegnare/disegnare-29.png, id=306, 337.26pt x 90.3375pt>
+File: ./images/disegnare/disegnare-29.png Graphic file (type png)
+<use ./images/disegnare/disegnare-29.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-29.png  used on input lin
+e 981.
+(pdftex.def)             Requested size: 284.52756pt x 65.79843pt.
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 53
+ []
+
+[53 <./images/disegnare/disegnare-29.png>]
+<./images/disegnare/disegnare-30.png, id=313, 438.63875pt x 450.68375pt>
+File: ./images/disegnare/disegnare-30.png Graphic file (type png)
+<use ./images/disegnare/disegnare-30.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-30.png  used on input lin
+e 994.
+(pdftex.def)             Requested size: 284.52756pt x 292.6421pt.
+ [54 <./images/disegnare/disegnare-30.png>]
+<./images/disegnare/disegnare-31.png, id=319, 424.58624pt x 420.57124pt>
+File: ./images/disegnare/disegnare-31.png Graphic file (type png)
+<use ./images/disegnare/disegnare-31.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-31.png  used on input lin
+e 1020.
+(pdftex.def)             Requested size: 284.52756pt x 281.74245pt.
+<./images/disegnare/disegnare-32.png, id=321, 359.3425pt x 265.99374pt>
+File: ./images/disegnare/disegnare-32.png Graphic file (type png)
+<use ./images/disegnare/disegnare-32.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-32.png  used on input lin
+e 1036.
+(pdftex.def)             Requested size: 284.52756pt x 207.15508pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 55
+ []
+
+[55 <./images/disegnare/disegnare-31.png>]
+<./images/disegnare/disegnare-33.png, id=328, 287.0725pt x 271.0125pt>
+File: ./images/disegnare/disegnare-33.png Graphic file (type png)
+<use ./images/disegnare/disegnare-33.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-33.png  used on input lin
+e 1056.
+(pdftex.def)             Requested size: 284.52756pt x 267.67683pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56 <./images/disegnare/disegnare-32.png>]
+<./images/disegnare/disegnare-34.png, id=334, 118.4425pt x 99.37125pt>
+File: ./images/disegnare/disegnare-34.png Graphic file (type png)
+<use ./images/disegnare/disegnare-34.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-34.png  used on input lin
+e 1083.
+(pdftex.def)             Requested size: 85.35826pt x 73.28352pt.
+<./images/disegnare/disegnare-35.png, id=336, 403.5075pt x 301.125pt>
+File: ./images/disegnare/disegnare-35.png Graphic file (type png)
+<use ./images/disegnare/disegnare-35.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-35.png  used on input lin
+e 1096.
+(pdftex.def)             Requested size: 284.52756pt x 209.34406pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 57
+ []
+
+[57 <./images/disegnare/disegnare-33.png> <./images/disegnare/disegnare-34.png>
+]
+<./images/disegnare/disegnare-36.png, id=343, 298.11375pt x 118.4425pt>
+File: ./images/disegnare/disegnare-36.png Graphic file (type png)
+<use ./images/disegnare/disegnare-36.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-36.png  used on input lin
+e 1113.
+(pdftex.def)             Requested size: 284.52756pt x 103.28828pt.
+
+Underfull \vbox (badness 2818) has occurred while \output is active []
+
+ [58 <./images/disegnare/disegnare-35.png> <./images/disegnare/disegnare-36.png
+>]
+<./images/disegnare/disegnare-37.png, id=350, 316.18124pt x 391.4625pt>
+File: ./images/disegnare/disegnare-37.png Graphic file (type png)
+<use ./images/disegnare/disegnare-37.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-37.png  used on input lin
+e 1125.
+(pdftex.def)             Requested size: 284.52756pt x 355.92574pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 59
+ []
+
+[59 <./images/disegnare/disegnare-37.png>]
+Overfull \hbox (28.10413pt too wide) in paragraph at lines 1157--1158
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1161.
+
+
+Overfull \hbox (13.75397pt too wide) in paragraph at lines 1161--1162
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 1167
+.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <7> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 1167.
+
+File: ./images/disegnare/disegnare-36.png Graphic file (type png)
+<use ./images/disegnare/disegnare-36.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-36.png  used on input lin
+e 1200.
+(pdftex.def)             Requested size: 284.52756pt x 103.28828pt.
+ [60]
+<./images/disegnare/disegnare-38.png, id=362, 320.19624pt x 116.435pt>
+File: ./images/disegnare/disegnare-38.png Graphic file (type png)
+<use ./images/disegnare/disegnare-38.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-38.png  used on input lin
+e 1220.
+(pdftex.def)             Requested size: 284.52756pt x 93.90524pt.
+<./images/disegnare/disegnare-39.png, id=364, 209.78375pt x 62.2325pt>
+File: ./images/disegnare/disegnare-39.png Graphic file (type png)
+<use ./images/disegnare/disegnare-39.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-39.png  used on input lin
+e 1232.
+(pdftex.def)             Requested size: 284.52756pt x 67.81633pt.
+
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 61
+ []
+
+[61 <./images/disegnare/disegnare-38.png> <./images/disegnare/disegnare-39.png>
+]
+<./images/disegnare/disegnare-40.png, id=372, 528.97626pt x 132.495pt>
+File: ./images/disegnare/disegnare-40.png Graphic file (type png)
+<use ./images/disegnare/disegnare-40.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-40.png  used on input lin
+e 1258.
+(pdftex.def)             Requested size: 284.52756pt x 64.59018pt.
+<./images/disegnare/disegnare-41.png, id=374, 108.405pt x 63.23625pt>
+File: ./images/disegnare/disegnare-41.png Graphic file (type png)
+<use ./images/disegnare/disegnare-41.png>
+Package pdftex.def Info: ./images/disegnare/disegnare-41.png  used on input lin
+e 1277.
+(pdftex.def)             Requested size: 85.35826pt x 48.90256pt.
+ [62 <./images/disegnare/disegnare-40.png> <./images/disegnare/disegnare-41.png
+>])
+Overfull \hbox (9.97076pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 5.1.  MOVING THJE TURTLE AROUND { DRAWING - USING VARIABLES \O
+T1/cmr/m/n/10 63
+ []
+
+[63]
+\openout2 = `7-caos-della-vita.aux'.
+
+ (./7-caos-della-vita.tex [64
+
+
+
+]
+Chapter 6.
+<./images/caos-della-vita/caos-della-vita-1.png, id=388, 380.42125pt x 355.3275
+pt>
+File: ./images/caos-della-vita/caos-della-vita-1.png Graphic file (type png)
+<use ./images/caos-della-vita/caos-della-vita-1.png>
+Package pdftex.def Info: ./images/caos-della-vita/caos-della-vita-1.png  used o
+n input line 37.
+(pdftex.def)             Requested size: 85.35826pt x 80.47026pt.
+
+Overfull \hbox (19.05556pt too wide) in paragraph at lines 20--41
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--41
+
+ []
+
+
+Underfull \vbox (badness 1400) has occurred while \output is active []
+
+ [65]
+
+LaTeX Warning: Reference `cap:ripetere' on page 66 undefined on input line 67.
+
+
+LaTeX Warning: Reference `cap:marta' on page 66 undefined on input line 67.
+
+
+LaTeX Warning: Reference `cap:cerchio' on page 66 undefined on input line 67.
+
+[66 <./images/caos-della-vita/caos-della-vita-1.png>]
+<./images/caos-della-vita/caos-della-vita-2.png, id=397, 48.18pt x 44.3256pt>
+File: ./images/caos-della-vita/caos-della-vita-2.png Graphic file (type png)
+<use ./images/caos-della-vita/caos-della-vita-2.png>
+Package pdftex.def Info: ./images/caos-della-vita/caos-della-vita-2.png  used o
+n input line 110.
+(pdftex.def)             Requested size: 85.35826pt x 85.7421pt.
+
+Overfull \hbox (19.05556pt too wide) in paragraph at lines 95--114
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--114
+
+ []
+
+[67 <./images/caos-della-vita/caos-della-vita-2.png (PNG copy)>] [68]
+Chapter 7.
+File: ./images/caos-della-vita/caos-della-vita-1.png Graphic file (type png)
+<use ./images/caos-della-vita/caos-della-vita-1.png>
+Package pdftex.def Info: ./images/caos-della-vita/caos-della-vita-1.png  used o
+n input line 165.
+(pdftex.def)             Requested size: 85.35826pt x 80.47026pt.
+
+Overfull \hbox (19.05556pt too wide) in paragraph at lines 148--169
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--169
+
+ []
+
+
+Underfull \vbox (badness 1400) has occurred while \output is active []
+
+ [69
+
+]
+
+LaTeX Warning: Reference `cap:ripetere' on page 70 undefined on input line 195.
+
+
+
+LaTeX Warning: Reference `cap:marta' on page 70 undefined on input line 195.
+
+
+LaTeX Warning: Reference `cap:cerchio' on page 70 undefined on input line 195.
+
+[70]
+File: ./images/caos-della-vita/caos-della-vita-2.png Graphic file (type png)
+<use ./images/caos-della-vita/caos-della-vita-2.png>
+Package pdftex.def Info: ./images/caos-della-vita/caos-della-vita-2.png  used o
+n input line 238.
+(pdftex.def)             Requested size: 85.35826pt x 85.7421pt.
+
+Overfull \hbox (19.05556pt too wide) in paragraph at lines 223--242
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--242
+
+ []
+
+[71]
+<./images/caos-della-vita/caos-della-vita-3.png, id=420, 961.5925pt x 638.385pt
+>
+File: ./images/caos-della-vita/caos-della-vita-3.png Graphic file (type png)
+<use ./images/caos-della-vita/caos-della-vita-3.png>
+Package pdftex.def Info: ./images/caos-della-vita/caos-della-vita-3.png  used o
+n input line 293.
+(pdftex.def)             Requested size: 85.35826pt x 56.66217pt.
+
+Overfull \hbox (19.05556pt too wide) in paragraph at lines 260--297
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--297
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [72])
+[73 <./images/caos-della-vita/caos-della-vita-3.png>]
+\openout2 = `xi-appendice.aux'.
+
+ (./xi-appendice.tex
+[74
+
+
+
+]
+Chapter 8.
+) [75] (./librelogo.bbl [76
+
+
+]
+Underfull \hbox (badness 1303) in paragraph at lines 34--41
 []\OT1/cmr/m/n/10 Weintrop David e Wilen-sky U.  Us-ing com-mu-ta-tive as-sess-
 ments to
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 29--36
+Underfull \hbox (badness 2529) in paragraph at lines 34--41
 \OT1/cmr/m/n/10 com-pare con-cep-tual un-der-stand-ing in blocks based and text
  based
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--54
+Underfull \hbox (badness 10000) in paragraph at lines 54--59
 \OT1/cmtt/m/n/10 kormany . hu / wp-[]content / uploads / librelogo _ oktatasi _
  segedanyag _
  []
 
-) [33
-
-
-] (./librelogo.aux (./0-frontespizio.aux) (./01-ringraziamenti.aux)
-(./1-prefazione.aux) (./2-librelogo.aux) (./3-paura.aux) (./3-logo.aux))
+) [77] (./librelogo.aux (./0-frontespizio.aux) (./01-ringraziamenti.aux)
+(./1-prefazione.aux) (./2-librelogo.aux) (./3-paura.aux) (./3-logo.aux)
+(./4-disegnare.aux) (./7-caos-della-vita.aux) (./xi-appendice.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -947,31 +1748,35 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5703 strings out of 492982
- 80995 string characters out of 6134896
- 161754 words of memory out of 5000000
- 9104 multiletter control sequences out of 15000+600000
- 10984 words of font info for 39 fonts, out of 8000000 for 9000
+ 6352 strings out of 492982
+ 92658 string characters out of 6134896
+ 189606 words of memory out of 5000000
+ 9682 multiletter control sequences out of 15000+600000
+ 11294 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,10n,32p,3379b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,16n,32p,3379b,1352s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on librelogo.pdf (33 pages, 2462342 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmtt10.pfb>
+Output written on librelogo.pdf (77 pages, 3010366 bytes).
 PDF statistics:
- 204 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
+ 508 PDF objects out of 1000 (max. 8388607)
+ 278 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 609 words of extra memory for PDF output out of 10000 (max. 10000000)
 

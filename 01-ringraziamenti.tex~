@@ -1,8 +1,0 @@
-\tableofcontents
-\newpage
-
-\section{Aknowldegments}
-
-First af all I thank all the students who worked beyond my expectations, even by sending works that they were not supposed to do. Their explosion of creativity was extremely useful. Some of these contributes deserve specific mentions. First the remarkable "Creativity Exercises" of Marta Veloce, Primary Education student, that inspired chapter \ref{cap:marta}. Then Alberto Averono, teacher of a secondary school, who in a training course about coding further developed Marta's exploration. Another Primary Education student, Eleonora Aiazzi, send a moving text, "When a professor treats you as a child", who was extremely encouraging about the teaching method I was experimenting. A well experienced primary school teacher, Antonella Colombo, gave me back a wonderful documentation of Papert's syntonic learning she tried to trigger in her classroom. Her work opens the trip in chapter \ref{cap:cerchio}, from the draw of a circle to the Halley's orbit. Thanks to Piero Salonia, who corrected the proofs of the first Italian version of this manual. Finally, thanks to the beautiful world of Linux and its sharp tools  - scp, ssh, rsync, grep, find, nmap, latex, bibtex and so on - which gives true superpowers, unknown in the Graphical User Interface World - the Internet of true freedom.
-
-

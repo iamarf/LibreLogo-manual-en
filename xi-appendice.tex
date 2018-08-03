@@ -1,0 +1,42 @@
+\chapter{Appendix 2} \label{cap:appendice-2}
+
+LibreLogo and Kojo instructions are quite similar. Logo is not case-sensitive, you can write commands lower or uppercase, indifferently. I usually show examples written in uppercase because it seems to be easier for beginners. Instead, Kojo is case-sensitive and commands are written in "camel-case" style, for instance penUp(). 
+
+Here a short instructions comparison list between LibreLogo and Kojo commands is given.
+
+% https://tex.stackexchange.com/questions/2441/how-to-add-a-forced-line-break-inside-a-table-cell
+\begin{table}[H] \label{tab:computer}
+\begin{center}
+\begin{tabular}{| l | l | l |}
+\hline
+\thead{Action} & \thead{LibreLogo} & \thead{Kojo} \\
+%\thead{Action} & \thead{LibreLogo} & \thead[l]{Kojo} \\
+\hline
+\makecell[l]{Move forward by 100} & FORWARD 100 & forward(100) \\
+\hline 
+\makecell[l]{Move back by 100} & BACK 100 & back(100) \\
+\hline 
+\makecell[l]{Turn left by 90\degree} & LEFT 90 & left(90) \\
+\hline 
+\makecell[l]{Turn right by 90\degree} & RIGHT 100 & right(90) \\
+\hline 
+\makecell[l]{Raise the pen} & PENUP & penUp() \\
+\hline 
+\makecell[l]{Lowers the pen} & PENDOWN 100 & penDown() \\
+\hline 
+\makecell[l]{Moves to new position \\ of coordinates (100,200) \\ drawing a line} & POSITION [100,200] & changePosition(100, 200) \\
+\hline 
+\makecell[l]{Clears the screen and \\ goes home} & \makecell[l]{CLEARSCREEN \\ HOME} & clear() \\
+\hline 
+\makecell[l]{Hides the Turtle} & HIDETURTLE & invisible() \\
+\hline 
+\makecell[l]{Shows the TURTLE} & SHOWTURTLE & visible() \\
+\hline 
+
+\end{tabular}
+\end{center}
+\end{table}
+
+
+At the following link you can find an ebook with a list of the Kojo turtle commands: http://www.kogics.net/kojo-ebooks\#quickref.
+ 
