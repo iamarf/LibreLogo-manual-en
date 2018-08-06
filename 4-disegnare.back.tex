@@ -1,6 +1,6 @@
 \chapter{Drawing} \label{cap:disegnare}
 
-\section{Moving the Turtle around – Drawing - Using variables}
+\section{Moving thje Turtle around – Drawing - Using variables}
 
 \subsection{Basic commands} \label{sec:comandi-fondamentali}
 
@@ -75,7 +75,7 @@ Let's now write the following instructions:
 
 \vskip 1cm
 
-We have drawn four sides, and at the end of each side we turned right by 90\degree , thus obtaining a square.
+We have drawn four sides, and at the end of each side we turned right by 90\degree, thus obtaining a square.
 Just two words about the peculiarity of LibreLogo. The sequence of instructions we wrote is a bit of code, it’s a software. We wrote it in a particular kind of language, which is Logo's, and is it also very simple, but it's a software just like any other.
 Usually the software is written in special documents using simple text editing and context editing and it’s saved that way.
 Then, the computer executes them.
@@ -167,7 +167,7 @@ It's vital to get things smooth because, as the code keeps growing, it can rapid
 
 \begin{minipage}{0.45\textwidth}
 
-Now we need to build the roof of the house. We can do this by drawing an equilateral triangle over the square, its base coinciding with the upper side of the square. Being equilateral, the other sides of the triangle will have to be 50mm long as well. So, in order to make the left side of the roof, the turtle will need to move 50mm, but before that, it needs to change direction. How much? Since the internal angles of an equilateral triangle are 60\degree  each, the turtle needs to detour by 90\degree - 60\degree = 30\degree  on the right. Once it has reached the top, drawing the left side of the roof, it will have to turn right by 120\degree in order to draw the right side. Finally, it will turn by 30\degree  on the right to align itself to the wall of the house.
+Now we need to build the roof of the house. We can do this by drawing an equilateral triangle over the square, its base coinciding with the upper side of the square. Being equilateral, the other sides of the triangle will have to be 50mm long as well. So, in order to make the left side of the roof, the turtle will need to move 50mm, but before that, it needs to change direction. How much? Since the internal angles of an equilateral triangle are 60\degree each, the turtle needs to detour by 90\degree - 60\degree = 30\degree  on the right. Once it has reached the top, drawing the left side of the roof, it will have to turn right by 120\degree in order to draw the right side. Finally, it will turn by 30\degree  on the right to align itself to the wall of the house.
 
 \end{minipage}
 \begin{minipage}{0.5\textwidth}
@@ -452,7 +452,7 @@ Let's try and set the two previous code blocks one after the other:
 
 \vskip 1cm
 
-After closing and colouring green the upper triangle, the turtle, with the following FORWARD instructions, procedes to draw two sides of the lower triangle. The instruction CLOSE makes close this second triangle without colouring it.
+After closing and colouring green the upper triangle, the turtle, with the following FORWARD instructions, proceedes to draw two sides of the lower triangle. The instruction CLOSE makes close this second triangle without colouring it.
 What if one would want to remove the turtle once the picture is finished? Easy: just add at the end the instruction
  \textbf{HIDETURTLE}. Try! 
 
@@ -564,7 +564,7 @@ One last remark. Looking closely, you can see that in these pictures our turtle 
 
 \subsection{More commands}
 
-With these basic commands seen so far, it is possible to produce a large amount of graphics. In Logo however there are commands that allow to shorten the picture of some basic forms. We already anticipated the instruction SQUARE that allows to build a square at once. The others are RECTANGLE, CIRCLE and ELLIPSE.
+With these basic commands seen so far, it is possible to produce a large amount of graphics. In Logo however there are commands that allow to shorten the picture of some basic forms. We already anticipated the instrution SQUARE that allows to build a square at once. The others are RECTANGLE, CIRCLE and ELLIPSE.
 Let's try the following commands:
 
 \vskip 1cm
@@ -638,11 +638,11 @@ One important thing to understand with the code is that the same goal can be ach
 \vskip 1cm
 
 
-The square and the circle need just one parameter to be executed. Instead, the rectangle and ellipse need two parameters. For the rectangle, the two parameters are the length of the long side and the short side. The instruction to build the rectangle is the following:
+The square and the circle need just one parameter to be executed. Instead, the rectangle and ellipse need two parameters. As for the rectangle, the two parameters are the length of the long side and the short side. The instruction to build the rectangle is the following:
 
 \textbf{RECTANGLE [60,40]}
 
-This command produces a rectangle 60 points large and another of 40. In comparison to the square and the circle's cases, this command has another peculiarity: in this case, in order to give the two needed parameters, we resorted to the writing \textbf{[60,40]}. This is a "list" of values. It's a way of considering a bunch of values as a whole, a list in fact, and the way to obtain this result is to list the values, split them with commas and close them between square brackets. The lists may be useful in various circumstances, not only in this case, but we'll see how later.
+This command produces a rectangle 60 points large and another of 40. In comparison to the square and the circle's cases, this command has another peculiarity: in this case, in order to give the two needed parameters, we recoursed to the writing \textbf{[60,40]}. This is a "list" of values. It's a way of considering a bunch of values as a whole, a list in fact, and the way to obtain this result is to list the values, split them with commas and close them between square brackets. The lists may be useful in various circumstances, not only in this case, but we'll see how later.
 
 \textbf{Esercizio}: try to make a figure like the one below
 
@@ -656,7 +656,7 @@ This command produces a rectangle 60 points large and another of 40. In comparis
 
 \vskip 1cm
 
-In this case as well, try out on your own. Then, scroll down the page to see a possible way of solving it.
+In this case as well, try on your own. Then, scroll down the page to see a new way of solving it.
 
 \pagebreak
 
@@ -776,7 +776,7 @@ Possibile answer:
 
 \vskip 1cm
 
-These instructions also allow to use other parameters to obtain rectangular and ellipsis variables. In the case of rectangles it's possible to adjust a third parameter in order to make the vertexes rounded:
+These instructions also allow to use other parameters to obtain rectangular and ellipsis variables. In the case of rectangulars it's possible to adjust a third parameter in order to make the tops rounded:
 
 \vskip 1cm
 
@@ -796,7 +796,7 @@ These instructions also allow to use other parameters to obtain rectangular and 
 
 \vskip 1cm
 
-Now, let's suppose a friend just told us about this opportunity, but he can’t remember anything else. Can we control the "roundness" of the vertexes? Probably with that third parameter, our friend told us to assign it a 10 value, but how does it work? This is a great example to highlight the crucial tool of software developers: experimentation. So, in this case, we could make some attempts, that we might summarize like this:
+Now, let's suppose that a friend just told us about this opportunity, but he can’t remember anything else. Can we control the "roundness" of the tops? Probably with that third parameter our friend told us about, fixing it to 10 value, but how does it work? This is a great example to highlight the crucial tool of software developers: experimentation. So, in this case, we could make some attempts, that we might summarize like this:
 
 
 \vskip 1cm
@@ -832,8 +832,8 @@ Now, let's suppose a friend just told us about this opportunity, but he can’t 
 
 \vskip 1cm
  
-This way we worked out how to control rounded rectangles. We also realized that, playing with the third parameter, we can go from the extreme case of a normal rectangle to the real ellipse.
-Let's see now the possible variants for the instruction ELLIPSE.
+This way we worked out how to control rounded rectangles. We also realized that, playing with the third parameter, we can wander from the extreme case of a normal rectangle to the real ellipse.
+Let's see now the possible variables for the instruction ELLIPSE.
 
 \vskip 1cm
 
@@ -845,15 +845,15 @@ Let's see now the possible variants for the instruction ELLIPSE.
 
 \vskip 1cm
 
-So in the instruction ELLIPSE we can use 3 additional parameters, to draw just one area of the ellipse. The first two represent the initial and final angle, expressed in degrees, that limit the area. In the above example, having chosen 0 and 90 we established to draw the first quadrant of the ellipse. The fourth parameter determines whether to draw one sector of the ellipse (1), one segment of the ellipse (2) or just an arch (3).
+In the instruction ELLIPSE we can use 3 additional parameters, that we need to draw just one area of the ellipse. The first two represent the initial and final angle, expressed in degrees, that limit the area. In the above example, having chosen 0 and 90 we established to draw the first quadrant of the ellipse. The fourth parameter establishes if we want to draw one setor of the ellipse (1), one segment of the ellipse (2) or just an arch (3).
 
 \subsection{Variables} \label{sec:variabili}
 
  
- The instructions we have seen so far allow us to do many things: we learned to move the turtle anywhere around the screen, to make it draw or not, we saw how to control the colour of the line and the filling of figures. We may get the impression that, to make graphics, we won't need anything more. Instead we just scratched the surface of potentialities of a programming language, even if for educational purposes, as in Logo and its derived.
- We'll introduce the main characteristics as we go. The first of which, that we need at once to get going, is the concept of "variable". So far we used various instructions that require "arguments". The argument is the value that an instruction may require to be executed. For instance the instruction FORWARD wouldn't make any sense without an argument that represents the distance that the turtle needs to cover. The expression FORWARD 50 means that the turtle has to move forward by 50 points; 50 is the value of the argument.
+ The instructions we have seen so far allow us to do many things: we learned to move the turtle anywhere around the screen, to make it draw or not, we saw how to control the colour of the line and the filling of figures. We may get the impression that, to make graphics, we won't need more. Instead we just scratched the surface of potentialities of a programming language, even if for educational purposes, as in Logo and its derived.
+ We'll introduce the main characteristics as we go. The first of which, that we need at once to get going, is the concept of "variable". So far we used various instructions that require "arguments". the argument is the value that an instruction may require to be executed. For instance the instruction FORWARD wouldn't make any sense without an argument that represents the distance that the turtle needs to cover. The expression FORWARD 50 means that the turtle has to move forward by 50 points; 50 is the value of the argument.
  There are also instructions that require more than an one argument, for example the RECTANGLE and ELLIPSE. 
- Basically, in all the examples seen before we always used numerical arguments for all the instructions. Actually, every language allows to understand an important generalization of the use of "variables". They are symbolic names that can be assigned to convenient numerical values. Let's try and execute the following code:
+ Anyway, in all the examples seen before we always used numerical arguments for all the instructions. Actually, all languages allow to make use of an important generalization that's the use of "variables". It’s about symbolic names that can be assigned to convenient numerical values. Let's try and execute the following code:
  
 
 \vskip 1cm
@@ -887,11 +887,12 @@ So in the instruction ELLIPSE we can use 3 additional parameters, to draw just o
 
 \vskip 1cm
 
-We have drawn a square, but instead of using directly the value 100 as an argument of the instructions FORWARD, first we assigned the value 100 to the variable named "SIDE" and then we used this as an argument of all the instructions FORWARD. The utility of this method is evident: let's suppose I am not satisfied of this square's dimensions and that I want to try other values of the side. Well, I just need to change the value 100 into the instruction SIDE=100, changing it for example with SIDE=150. Feel free to experiment! You may even want to change the value of an ANGLE, trying out different values...
-For those who studied algebra basics, they will certainly have recognized the concept of variable, that in that discipline is used widely to make simple symbolic calculus. They will also remember that the concept of variable is used in various ways, to express quantities that are considered variables - for instance a dependant variable in function of other independent variables - then quantities that we assume constant, finally quantities that assume the meaning of parameters, that are like constants we may be interested to change from time to time.
-In any case, all these quantities are represented in a symbolic way. Actually, those who had time to deepen algebra studies, will know that the concept of variable is passable of a series of generalizations. No fear, this is not a Maths class in disguise, or maybe it is, in a way: after all Logo represents Seymour Papert's goal to make Maths more accessible.
-But what we are doing here does not require special attitudes or skills. We are just introducing one of the possible generalizations, that we are going to need at once. The generalization we are proposing concerns the concept of the turtle's position on the screen.
-  The position along aline is determined by a simple number - for instance the position along a road: “Road work at km...". A different case is that of the position on a surface. In a sat nav, a familiar example, you can give the position in geographic terms, but this has to be given through two values: latitude and longitude, denoting the parallel and the meridian. In order to sink a boat at a naval battle board game, you must give two coordinates, for instance b7, where "b represents the column and 7 the line". Likewise to identify cells on a spreadsheet, and so on. Our turtle also needs two values in order to identify a specific place on the sheet, that we can imagine as the x and the y of the turtle in the space of the page. So, the way to express this concept in the turtle's world (and not only that!) is the following:
+We have drawn a square, but instead of using directly the value 100 as an argument of the instructions FORWARD, first we assigned the value 100 to the variable named "SIDE" and then we used this as an argument of all the instructions FORWARD. It's evident which will be the utility of this method: let's suppose I'm not satisfied of this square's dimensions and that I want to try other values of the side. Well, I just need to change the value 100 in the instruction SIDE=100, changing it for example with SIDE=150. Feel free to experiment! You may even want to change the value of ANGLE, trying out different values...
+For those who studied algebra basics, they will certainly have recognized the concept of variable, that in that discipline is being used widely to make simple symbolic calculus. They will also remember that the concept of variable is used in various ways, to express quantities that are considered variables - for instance a dependant variable in function of other independent variables - then quantities that we assume constant, finally quantities that assume the meaning of parameters, that are like constant we may be interested to change from time to time.
+In any case, all these quantities are being represented in a symbolic way. Actually, those who had time to deepen algebra studies, they will know that the concept of variable is passable of a series of generalizations. No fear, this is not a Maths class in disguise, or maybe it is, in a way: after all Logo represents Seymour Papert's goal to make Maths more accessible.
+ 
+ But what we are doing here does not require special attitudes or skills. We are just introducing one of the possible generalizations, that we are going to need at once. The generalization we are proposing concerns the concept of the turtle's position on the screen.
+  The position along aline is determined by a simple number - for instance the position along a road: "Workroads at km...". A different case is that of the position on a surface. In a sat nav, which everybody knows about, you can give the position in geographic terms, but this has to be given through two values: latitude and longitude, denoting the parallel and the meridian. In order to sink a boat at a naval battle board game, you must give two coordinates, for instance b7, where "b represents the column and 7 the line". Likewise you identify cells on a spreadsheet, and so on. Our turtle as well needs two values in order to identify a specific place on the sheet, that we can imagine as the x and the y of the turtle in the space of the page. So, the way to express this concept in the turtle's world (not only that!) is the following:
   
 
 \vskip 1cm
@@ -907,7 +908,7 @@ But what we are doing here does not require special attitudes or skills. We are 
 
 \vskip 1cm
 
-If you execute this code, LibreLogo prints the "value" [200, 300]. Obviously we chose these numbers randomly, just to make an example. The aim is to show how to represent in a symbolic way a position, that actually is expressed by two numbers. In algebra this kind of variable is called a "vector". There is also another way to “isolate” the single elements inside a vector. Let's describe this with this example:
+If you execute this code, LibreLogo prints the "value" [200, 300]. Obviously we chose these numbers randomly, just to make an example. The aim is to show how to represent in a symbolic way a position, that actually is expressed by two numbers. In algebra it's said that this kind of variable is a "vector". There is also another way to "isolate the single elements inside a vector. Let's describe this with this example:
 
 \vskip 1cm
 
@@ -924,12 +925,13 @@ If you execute this code, LibreLogo prints the "value" [200, 300]. Obviously we 
 
 \vskip 1cm
 
-If you execute this fragment of code, first the "value" [200, 300] is printed, then the value 200, then 300. Therefore it's clear that with P [0] one obtains the first element of the position vector, which contains the number 200, and with P [1] the second element, which contains the number 300.
-Therefore, this is how much is needed to go and see how you can control even more easily the position of the turtle on the screen.
+If you execute this fragment of code, first the "value" [200, 300] is being printed, then the value 200, then 300. From here it's understood that with P [0] one obtains the first element of the position vector, which contains the number 200, and with P [1] the second element, which contains the number 300.
+Therefore, this is how much is needed to go and see how you can control even more smoothly the position of the turtle on the screen.
 
 \subsection{The page space} \label{se:spazio-pagina}
 
-We already saw various commands to move the turtle, but all of them have the goal of drawing. Actually you can make movements with the "lifted pen" (PENUP command) but it also can be useful to "jump" directly to any position on the screen, or point to a particular direction. It's all about, in other words, to choose a position or a direction in absolute terms and not relatively, related to the present position and direction, just like it's done for instance with instructions like FORWARD or LEFT. Hence the need to use spacial references as a couple of coordinates for the position on the sheet and an angle for the direction. To understand how these references work, let's introduce and use two new instructions at once: \textbf{POSITION}  and \textbf{HEADING}. Moreover, the instruction \textbf{PRINT} is helpful to know the current value of the position and of the direction. In fact, these two commands \textbf{POSITION} and \textbf{HEADING}, can be used with and without parameters. When they are used without parameters, they provide the current values. In fact, if I open a new document in Writer and execute the command
+We already saw various comands to move the turtle, but all of them have the goal of drawing. Actually you can make movements with the "lifted pen" (PENUP comand) but it also can be useful to "jump" directly to whatever position on the screen, or point in a particular direction. It's all about, in other words, to choose a position or a direction in absolute terms and not relatively, related to the present position and direction, just like it's done for instance with instructions like FORWARD or LEFT. Hence the need to use spacial references as a couple of coordinates for the position on the sheet and an angle for the direction. To know how these references work, let's introduce and use at once two new instructions: \textbf{POSITION}  and \textbf{HEADING}. Moreover, the instruction \textbf{PRINT} is helpful to know the current value of the position and of the direction. In fact, these two comands \textbf{POSITION} and \textbf{HEADING}, 
+can be used with and without parameters. When they are being used without parameters, then they provide the current values. Indeed, if I open a new document in Writer and execute the comand
 
 \vskip 1cm
 
@@ -955,8 +957,8 @@ I obtain the following answer:
 
 \vskip 1cm
 
-The two numbers between brackets represent the coordinates x and y of the position in the space of the page: 298 e 421\footnote{we approximated the two numbers to four significative digits, that are adequate to determine the position on the sheet, to our goals.
-In the following note we’ll give a short explanation of the unit of measurement used for these numbers} respectively. Since we have just opened the document and that at the beginning the turtle is placed in the centre, we can assume that these coordinates represent the centre of the page. However, in order to have the complete control of the situation, we need to know exactly the extension of the image's space. Now, the coordinates of the upper left angle are [0, 0], where the first number represents the coordinate x and the second the y, whilst those in the lower right angle are easily obtained by printing the value of the special variable \textbf{PAGESIZE}, that LibreLogo uses to maintain the page's dimensions. In this moment my version of Writer is set for pages A4 and, consequently, by executing the instruction
+The two numbers between brackets represent the coordinates x and y of the position in the space of the page: 298 e 421\footnote{we approximated the two numbers to four significative digits, that are adequate to determine the position on the sheet, to aour goals.
+In the following note we give a short explanation of the unit of measurement used for these numbers} respectively. Since we have just opened the document and that at the beginning the turtle is placed in the centre, we can assume that these coordinates represent the centre of the page. Nevertheless, in order to have the complete control of the situation, we need to know exactly the extension of the image's space. Now, the coordinates of the upper left angle are [0, 0], where the first number represents the coordinate x and the second the y, whilst those in the lower right angle are easily obtained by printing the value of the special variable \textbf{PAGESIZE}, that LibreLogo uses to mantain the page's dimensions. In this moment my version of Writer is set for pages A4 and, consequently, by executing the instruction
 
 \vskip 1cm
 
@@ -995,7 +997,7 @@ Since an inch is 2.54 cm, 72 DPI density corresponds to 72/2.54 = 28.3 points fo
 
 \vskip 1cm
 
-Every time we want to use absolute positions we can refer to this scheme that gives us the orientation of the referral system on the sheet and its dimensions. In the next chart we can see the equivalent numeric values:
+Every time we want to use absolute positions we can refer to this scheme that gives us the orientation of the referral system onthe sheet and its dimensions. In the next chart we can see the equivalent numeric values:
 
 \begin{center}
 %\begin{tabular}{| >{\centering\arraybackslash}m{1in} | >{\centering\arraybackslash}m{1in} |}
@@ -1008,8 +1010,8 @@ Every time we want to use absolute positions we can refer to this scheme that gi
 \end{tabular}
 \end{center}
 
-Reconnecting to the previous paragraph, PAGESIZE is a variable treated as a constant inside LibreLogo because it contains the dimensions of the page. Besides it's that particular kind of variable that is called vector, because it's composed by more elements, precisely two, the two dimensions of the page: PAGESIZE[0] is the width and PAGESIZE[1] the length.
-Then how can we send the turtle to a more precise position?
+Reconnecting to the previous paragraph, PAGESIZE is a variable, a variable that inside LibreLogo is treated as a constant because it contains the dimensions of a page. Besides it's that particular kind of variable that is called vector, because it's composed by more elements, precisely two, the two dimensions of the page: PAGESIZE[0] is the width and PAGESIZE[1] the lenght.
+Come facciamo dunque per spedire la tartaruga in una posizione precisa?
 
 \vskip 1cm
 
@@ -1021,9 +1023,10 @@ Then how can we send the turtle to a more precise position?
 
 \vskip 1cm
 
-With the instruction \textbf{POSITION [350, 320]} the turtle moves directly to the coordinates point \textbf{POSITION [[350,320]}, starting from the point where it is, in this case from the centre of the page.
-As can we use the instruction POSITION to control the position, likewise we can use the instruction HEADING to control the direction where the turtle is heading. Claiming the instruction HEADING without any parameter we obtain the current position.
-By using another parameter, for instance HEADING [30], we make the turtle rotate by 30\degree . 
+With the instruction \textbf{POSITION [350, 320]} the turtle moves directly to the coordinates point \textbf{POSITION [[350,320]}, 
+starting from the point where it is, in this case from the centre of the page.
+As can we use the instruction POSITION to control the position, in the same way we can use the instruction HEADING to control the direction where the turtle is heading. Evoking the instruction HEADING without any parameter we obtain the  current position.
+By using another parameter, for instance HEADING [30], we make the turtle rotate by 30\degree. 
 In the next picture we show the orientation of the reference system.
 
 \vskip 1cm
@@ -1036,9 +1039,9 @@ In the next picture we show the orientation of the reference system.
 
 \vskip 1cm
 
-When we open a new document, or after the instruction HOME, the turtle points towards the upper side of the sheet, and this direction corresponds to 0\degree .
+When we open a nwe document, or after the instruction HOME, the turtle points towards the upper side of the sheet, and this direction corresponds to 0\degree.
 
-\subsection{more graphics commands}
+\subsection{More graphics commands}
 
 It's possible to control other aspects of the drawing as well, in addition to the colour.
 
@@ -1056,9 +1059,9 @@ With the command \textbf{PENWIDTH} we determine the thickness of the line:
 
 \vskip 1cm
 
-\subsubsection{PENJOINT (joining of segments)}
+\subsubsection{PENJOINT (extremities shape)}
 
-With the command \textbf{PENJOINT} we control the vertexes form: 
+With the command \textbf{PENJOINT} we controll the vertexes form: 
 
 Let's draw a triangle, for example, in the following way:
 
@@ -1096,7 +1099,10 @@ We can alter the vertexes overlay by giving the instruction PENJOINT and an appr
 
 \vskip 1cm
 
-The argument "rounded" (default) mustn't be written in the command: we added it to point out that that is the standard behaviour if anything else is specified. If however we just used one of the other options, then it has to be used explicitly the command \textbf{PENJOINT  "rounded "}, to obtain rounded vertexes. The argument "miter" in carpentry means to cut off a frame's straight edges in order to sharpen the vertexes. "Bevel" means rounded vertexes.\subsubsection{PENCAP (end of segments)}
+The argument "rounded" (default) mustn't be written in the command: we added it to point out that that is the standard behavoiur if anything else is specified. If however we just used one of the other options, then it has to be used explicitly the command \textbf{PENJOINT  "rounded "}, to obtain rounded vertexes. The argument "miter" stands for "........", that is what's realized when one cuts the frames cutting the straight edges so that the vertexes end up pointed.
+per ottenere i vertici arrotondati. L'argomento  "miter " significa  "mitria " e sta peer  "giunto a mitria ", o  "giunto a quartabono ", che è quello che si realizza nelle cornici dei quadri tagliano i singoli regoli della cornice in maniera che i vertici risultino a punta.  "bevel " significa vertici smussati.
+
+\subsubsection{PENCAP (it forms extremities of segments)}
 
 With this command you can control the ends of a segment:
 
@@ -1110,7 +1116,7 @@ With this command you can control the ends of a segment:
 
 \vskip 1cm
 
-To comment this command behaviour, and also to recap code writing in Logo, let's analyze the code that produced this drawing, omitting, for the sake of simplicity, the part that produces the writing on the right. To understand more easily, let's orient ourselves with cardinal points, so orientated:
+To comment this command behaviour, and also to recap code writing in Logo, let's analize the code used to produce this drawing, omitting, for the sake of simplicity, the part that produces the writing on the right. To understand more easily, let's orient ourselves with cardinal points, so orientated:
 
 \vskip 1cm
 
@@ -1147,12 +1153,12 @@ Let's see the following code:
 \lstset{extendedchars=true, basicstyle=\scriptsize} 
 \begin{lstlisting}[frame=single]  % Start your code-block
 
-CLEARSCREEN		; I cancel the sheet (just the graphic part)
+CLEARSCREEN		; I cancel the sheeet (just the graphic part)
 HOME			; starting point: turtle in the center, pointing North 
 HIDETURTLE		; I hide the turtle 
 PENWIDTH 15		; I set the thickness of the line at 15 pt
 
-RIGHT 90		; I rotate 90\degree  to the right so the turtle can 
+RIGHT 90		; I rotate 90\degree to the right so the turtle can 
 			; points towards East so that
 			; to mark from left to right
 				
@@ -1160,7 +1166,7 @@ PENCAP  "square "		; I set the mode "squares ends"
 FORWARD 40		; I draw 40 pt of line
 			; (Ovest -> Est)
 PENUP  			; I lift the pen
-RIGHT 90 FORWARD 20	; I turn right by 90\degree  (pointing South) and 
+RIGHT 90 FORWARD 20	; I turn right by 90\degree (pointing South) and 
 			; I decrease by 20 pt
 LEFT 90 BACK 40		; I turn left (pointing East) and I get back
 			; back  (East -> West) by 40 pt
@@ -1170,7 +1176,7 @@ PENCAP  "round "	; I set the mode "rounded ends"
 FORWARD 40		; I draw 40 pt of line
 			; (West -> East)
 PENUP			; I lift the pen
-RIGHT 90 FORWARD 20	; I turn right by 90\degree  (pointing South) and
+RIGHT 90 FORWARD 20	; I turn right by 90\degree (pointing South) and
 			; I decrease by 20 pt
 LEFT 90 BACK 40		; I turn left (pointing East), I get back 
 			; back ( East -> West) by 40 pt 
@@ -1197,13 +1203,13 @@ We highlighted the instructions that realize three traits, here reported:
 
 \vskip 1cm
 
-Here, it's clear that in reality all three are drawn with the same length of 40 pt, and instead they don't seem to be the same length.
+There, it's clear that in reality all three are drawn with the same lenght of 40 pt, and instead they don't seem to be the same lenght.
 This is to understand how the command PENCAP works. The line drawn without specifications for the ends ("none effect) is 40 pt long.
-So those with "round" and "square" effects" come out longer. It's clear that roundings are added to the normal length and that the "square" effect is obtained by straightening the roundings.
+So those with "round" and "square" effects" come out longer. It's clear that roundings are added to the normal lenght and that the "square" effect is obtained by straightening the roundings.
 
 I's evident that this is just a marginal aspect. We took the opportunity to show the extreme sophistication of LibreLogo, to get used to move in the sheet and think graphically.
 
-\subsubsection{PENSTYLE (dashing of segments)}
+\subsubsection{PENSTYLE (dashed segments)}
 
 With this instruction you can define the continuity of the trace, to produce dashed lines of many kinds:
 
@@ -1232,17 +1238,17 @@ It's also possible to adjust the trace. For example with the instruction \textbf
 These are the rules: 
 
 \begin{itemize}
-\item Parametro 1: number of points
-\item Parametro 2: length of points
+\item Parametro 1: numeber of points
+\item Parametro 2: lenght of points
 \item Parametro 3: number of traits
-\item Parametro 4: length of traits
-\item Parametro 5: length of spaces
+\item Parametro 4: lenght of traits
+\item Parametro 5: lenght of spaces
 \item Parametro 6: optional, if it's worth 2 then the rectangles are forced to squares 
 \end{itemize}
 
-\subsubsection{FILLSTYLE (cross-hatching)}
+\subsubsection{FILLSTYLE (cross-hatchinga)}
 
-The instruction FILLSTYLE 1, prior to the drawing of a figure, determines the trait of it. The numeric parameter determines the trait style, in the following way: 
+The instruction FILLSTYLE 1, prior to the drawing of a figure, determines the trait of it. The numeric parameter determins the trait style, in the following way: 
 
 
 \vskip 1cm
@@ -1262,7 +1268,7 @@ Here as well, it's possible to personalize the trait scheme, using additional pa
 \begin{scriptsize}
 \begin{minipage}{0.50\textwidth}
 \begin{itemize}[itemsep=-3pt,parsep=2pt]
-\item[] \textbf{FILLSTYLE [2,  "red ", 3pt, 15\degree ]}           
+\item[] \textbf{FILLSTYLE [2,  "red ", 3pt, 15\degree]}           
 \end{itemize}
 \end{minipage}
 \end{scriptsize}
@@ -1275,9 +1281,9 @@ Here as well, it's possible to personalize the trait scheme, using additional pa
 
 \vskip 1cm
 
-\subsection{Conclusions}
+\subsection{Conclusioni}
 
-With these instructions the part of our LibreLogo exploration dedicated to drawing comes to a conclusion. We learnt the main commands to move the turtle through the sheet, both to draw and to simply move. We learnt to move around just like a real turtle would, or the way we would do when we follow a path downtown, following a certain path, imagining a "forward" in front of our current position, a "backward", a right and a left. But we also saw how to move with a "teleportation", as if setting our car's nav sat would instantly propel us into that place, without having to go through the ends of the Earth; or how the knight moves in a chess game, jumping directly to its destination square distant 1+2 or 2+1 positions. We saw how to code colours to decorate both the lines and the surfaces. With all this bit, it seemed to us  we could manage everything on the sheet, but then we suddenly discovered some instructions to draw directly the main geometrical figures: squares, rectangles, circles and ellipses, with some variables, like sectors, segments and arches of ellipses (or circles), or rectangles with rounded edges. So we introduced the first of the fundamental elements that characterize a real programming language: the concept of variable, with which we can use generic literary symbols to design specific quantities - distances, angles and more - without the concern of assign them precise numeric values; an essential characteristic that confers the language a potential similar to what stands at the foundation of algebra, with symbolic calculus. We haven't explored all the potential that lies under the concept of variable, but just pointed out what was needed to outline the movements on the sheet based on the use of spatial coordinates. To do so we had to consider a particular type of variable that is the vector, made itself by more numbers - two if it's the case of a "position vector" on a surface. Finally we saw that we can use many other commands to determine the specific graphics of the trait (colour, width, ends, junctions) and of the surfaces (colour, dotted lines). At this point, again, we may seem to have at our disposal a powerful instrument to produce graphics to insert in documents. And actually many things can be undoubtedly done with the commands we have seen so far. In fact, from the programming language point of view, we only saw a tiny part of its potential. These constructs, at the base of all programming languages, confer extraordinary capacities of flexibility and generalization to the countless kinds of software we all know, and unwittingly use in any kind of device.
+With these instructions the part of our LibreLogo exploration dedicated to drawing ends. We learnt the main commands to move the turtle through the sheet, both to draw or and simply move. We learnt to move how a real turtle would, or the way we would do when we follow a path around our city, following a certain path, imagining a "forward" in front of our current position, a "backward", a right and a left. But we also saw how to move with a "teleportation", as if setting our car's nav sat would instantly propel us into that place, without having to go through the ends of the Earth; or how the knight moves in a chess game, jumping directly to its destination square distant 1+2 or 2+1 positions. We saw how to code colours to decorate both the lines and the surfaces. Knowing all this gave us the impression that we can manage everything on the sheet, but then we suddenly discovered some instructions to draw directly le main geometrical figures: squares, rectangles, circles and ellipses, with some variables, like sectors, segments and arches of ellipese (or circles), or rectangles with rounded edges. So we introduced the first of the fundamental elements that characterise a real programming language: the concept of variable, with which we can use generic literary symbols to design specific quantities - distances, angles and more - without having to worry about giving them precise numeric values; an essential characteristic that confers the language a potential similar to that being at the foundation of algebra, with symbolic calculus. We haven't exploredall the potential that underlies to the concept of variable, but just underlined what we needed to outline the movements on the sheet based on the use of spatial coordinates. To do so we had to consider a particular type of variable that is the vector, made itself by more numbers - two if it's the case of a "position vector" on a surface. Finally we saw that we can use many other commands to determine the specific graphics of the trait (colour, width, ends, junctions) and of the surfaces (colour, dotted lines). At this point, again, we may seem to have at our disposal a powerful instrument to produce graphics to insert in documents. And actually many things can be undoubtedly done with the commands we have seen so far. In fact, from the programming language point of view, we only saw a tiny part of its potential. These constructs, at the base of all programming languages, confer extraordinary capacities of flexibility and generalization to the countless kinds of software we all know, and unwittingly use in any device.
 
 
 
